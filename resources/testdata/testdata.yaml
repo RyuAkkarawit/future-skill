@@ -1,0 +1,12 @@
+email: Ab.stopbus+1@gmail.com
+valid_password: Password123!
+invalid_password: Password456!
+
+
+email_register: akkarawit.114@gmail.com
+firstname_register: Akkarawit
+lastname_register: pobwongsa
+phone_register: 0845452545
+password_register: Password555
+confirm_password_register: Password555
+wrong_confirm_password_register: Password666
